@@ -1,16 +1,17 @@
-### Hi there 👋
+# I'm Tayfun Yılmaz!
 
-<!--
-**ttayfunylmz/ttayfunylmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :construction_worker: Currently Studying at Maltepe University.
+### :orange_book: Trying to learn HTML,CSS and Javascript.
+### 🙂 Trying to be Front-End-Developer.
 
-Here are some ideas to get you started:
+![Tayfun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttayfunylmz&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttayfunylmz&layout=compact)](https://github.com/ttayfunylmz/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages ;
+[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+### You can reach me by ;
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ttayfunylmz)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
