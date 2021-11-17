@@ -3,9 +3,10 @@
 ### :construction_worker: Maltepe University 2/4.
 ### :orange_book: Currently studying Java, Javascript.
 
-### Followers :
-[![](https://img.shields.io/github/followers/{ttayfunylmz}.svg?style=social&label=Follow&maxAge=2592000)]()
+### Followers ;
 
+
+### Stats ;
 ![Tayfun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttayfunylmz&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttayfunylmz&layout=compact)](https://github.com/ttayfunylmz/github-readme-stats)
 
