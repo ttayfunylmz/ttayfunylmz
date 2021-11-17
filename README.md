@@ -4,7 +4,7 @@
 ### :orange_book: Currently studying Java, Javascript.
 
 ### Followers ;
-
+[![](https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000)]()
 
 ### Stats ;
 ![Tayfun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttayfunylmz&show_icons=true&theme=synthwave)
