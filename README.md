@@ -1,7 +1,7 @@
 # I'm Tayfun Yılmaz!
 
 ### :construction_worker: Maltepe University 2/4.
-### :orange_book: Currently studying Java, Javascript.
+### :orange_book: Currently studying Java, Javascript, C.
 
 ### Followers ;
 [![](https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000)]()
