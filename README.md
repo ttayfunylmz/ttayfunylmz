@@ -1,24 +1,29 @@
-# I'm Tayfun Yılmaz!
+# Hello :raised_hand_with_fingers_splayed: , I'm Tayfun!
 
-### :construction_worker: Maltepe University 2/4.
-### :orange_book: Currently studying Java, Javascript, C.
+## About me :
 
-### Followers ;
-[![](https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000)]()
+### :computer: I'm a Software Engineering student at Maltepe University. I'm very interested in game development. Therefore, i am trying to code my own games using Unity and C#. Also, my biggest dream is to develop my own games by making every part of the game myself, including game assets. :smile:
 
-### Stats ;
+<img src="https://user-images.githubusercontent.com/76071161/181154766-54874b0c-22b2-475b-9529-b285a14dccf3.jpg" width="15%" height="15%">
+
+
+### :earth_americas: GitHub Stats ;
 ![Tayfun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttayfunylmz&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttayfunylmz&layout=compact)](https://github.com/ttayfunylmz/github-readme-stats)
 
-### Languages ;
-[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
-[![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
-### You can reach me from these platforms ;
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]() : tiyatrocu tayfun#9718
-<br>
+### :eyes: Main Languages ;
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### :coffee: Languages that I have knowledge of ;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### :telephone: You can reach me via these platforms ;
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ttayfunylmz/)
+<br>
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]() : tayfun#9718
 <br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() : tyfnylmz201974@gmail.com
